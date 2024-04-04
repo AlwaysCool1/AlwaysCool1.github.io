@@ -1,6 +1,6 @@
 .my_pets {
   width: 40%;
- margin: 0;
+ margin0: right auto left auto;
   display: block;
 }
 
